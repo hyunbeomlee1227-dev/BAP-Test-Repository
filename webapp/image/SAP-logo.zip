@@ -1,0 +1,14 @@
+--2026-11-02 05:22:14--  http://sap.com/design-system/digital/foundations/identity/logo
+Connecting to 127.0.0.1:8887... connected.
+Proxy request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sap.com/design-system/digital/foundations/identity/logo [following]
+--2026-11-02 05:22:14--  https://www.sap.com/design-system/digital/foundations/identity/logo
+Connecting to 127.0.0.1:8887... connected.
+Proxy request sent, awaiting response... 200 OK
+Length: 25736 (25K) [text/html]
+Saving to: ‘logo’
+
+     0K .......... .......... .....                           100%  189M=0s
+
+2026-11-02 05:22:15 (189 MB/s) - ‘logo’ saved [25736/25736]
+

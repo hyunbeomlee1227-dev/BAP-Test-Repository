@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Logo – Identity – Foundations – SAP Digital Design System</title>
+    <link rel="canonical" href="https://www.sap.com/design-system/digital/foundations/identity/logo">
+    <meta name="description" content="The SAP logo is our single most recognizable brand asset. Its color, anvil shape, and letterforms are fundamental to our visual system and referenced throughout ...">
+    <meta property="og:title" content="Logo – Identity – Foundations – SAP Digital Design System">
+    <meta property="og:description" content="The SAP logo is our single most recognizable brand asset. Its color, anvil shape, and letterforms are fundamental to our visual system and referenced throughout ...">
+    <meta property="og:url" content="https://www.sap.com/design-system/digital/foundations/identity/logo">
+    <meta property="og:image" content="https://www.sap.com/design-system/digital/foundations/identity/media_1ee0ca2bfe9b731137ecb18e0fd30e8c1a0ec6a2e.png?width=1200&#x26;format=pjpg&#x26;optimize=medium">
+    <meta property="og:image:secure_url" content="https://www.sap.com/design-system/digital/foundations/identity/media_1ee0ca2bfe9b731137ecb18e0fd30e8c1a0ec6a2e.png?width=1200&#x26;format=pjpg&#x26;optimize=medium">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Logo – Identity – Foundations – SAP Digital Design System">
+    <meta name="twitter:description" content="The SAP logo is our single most recognizable brand asset. Its color, anvil shape, and letterforms are fundamental to our visual system and referenced throughout ...">
+    <meta name="twitter:image" content="https://www.sap.com/design-system/digital/foundations/identity/media_1ee0ca2bfe9b731137ecb18e0fd30e8c1a0ec6a2e.png?width=1200&#x26;format=pjpg&#x26;optimize=medium">
+    <meta property="og:locale" content="en_US">
+    <meta name="config" content="{&#x22;edge.worker.dgl.assets.endpoint&#x22;:&#x22;https://www.sap.com/api/edge/assets&#x22;,&#x22;botDefinitions&#x22;:&#x22;bot,spider,google-inspectiontool,google-safety,mediapartners-google,crawler,prerender,facebookexternalhit,contentkingapp.com,cs.daum.net,jeeves,slurp,teoma&#x22;,&#x22;formEngine.platform.host&#x22;:&#x22;https://forms.services.sap.com&#x22;,&#x22;cbdt.check&#x22;:&#x22;true&#x22;,&#x22;edge.worker.price.path&#x22;:&#x22;/api/edge/pdp/price&#x22;,&#x22;feed.title&#x22;:&#x22;SAP Sponsorships Archives | SAP News Center&#x22;,&#x22;edge.worker.reviews.path&#x22;:&#x22;/api/edge/pdp/reviews&#x22;,&#x22;leadForm.domain&#x22;:&#x22;https://webcomponents-lead-form.p1.services.store.net.sap&#x22;,&#x22;productEndpoint&#x22;:&#x22;https://api.s1.services.store.net.sap&#x22;,&#x22;article.index.path&#x22;:&#x22;/articles-index.json&#x22;,&#x22;article.priority.maxDays&#x22;:&#x22;7&#x22;,&#x22;filter.l3.related&#x22;:&#x22;{ \&#x22;contentTypes\&#x22;: { \&#x22;contenthub:content-type/executive-blog\&#x22;: \&#x22;contenthub:content-type/what-is, contenthub:content-type/business-case, contenthub:content-type/best-practice-how-to-guide, contenthub:content-type/original-research, contenthub:content-type/trends-predictions, contenthub:content-type/expert-opinions, contenthub:content-type/self-assessment, contenthub:content-type/3rd-party-research, contenthub:content-type/business-strategy-guide, contenthub:content-type/technology-strategy-guide, contenthub:content-type/problem-solution-guide, contenthub:content-type/investment-value-scoping, contenthub:content-type/business-case-leaders, contenthub:content-type/project-planning-help, contenthub:content-type/customer-showcase, contenthub:content-type/executive-blog, contenthub:content-type/newsbyte, contenthub:content-type/press-release, contenthub:content-type/statement, contenthub:content-type/support-update, contenthub:content-type/feature, contenthub:content-type/news-guide\&#x22; }, \&#x22;paths\&#x22;: { \&#x22;news\&#x22;: \&#x22;contenthub:content-type/newsbyte, contenthub:content-type/press-release, contenthub:content-type/statement, contenthub:content-type/support-update, contenthub:content-type/feature, contenthub:content-type/news-guide\&#x22; }, \&#x22;default\&#x22;: \&#x22;contenthub:content-type/what-is, 4187ae8c-cd0e-40c1-9c57-b7f4b964faed:71350937-e20c-4c43-a3fb-1172cad3110c/9b9f6bbb-1d78-4bdf-9ab8-75cbbc7b6df2, contenthub:content-type/business-case, 4187ae8c-cd0e-40c1-9c57-b7f4b964faed:71350937-e20c-4c43-a3fb-1172cad3110c/29b2e9e3-f026-4492-b3d0-68a5029c5ffc, contenthub:content-type/best-practice-how-to-guide, 4187ae8c-cd0e-40c1-9c57-b7f4b964faed:71350937-e20c-4c43-a3fb-1172cad3110c/2065dfaf-1ab0-4cd6-a5e5-405e3b225cef, contenthub:content-type/original-research, 4187ae8c-cd0e-40c1-9c57-b7f4b964faed:71350937-e20c-4c43-a3fb-1172cad3110c/0b0b349b-86d9-4fc7-87d3-5b3d8e8d4009, contenthub:content-type/trends-predictions, 4187ae8c-cd0e-40c1-9c57-b7f4b964faed:71350937-e20c-4c43-a3fb-1172cad3110c/a7e11141-b4ab-4d25-b640-c52d00aa880d, contenthub:content-type/expert-opinions, 4187ae8c-cd0e-40c1-9c57-b7f4b964faed:71350937-e20c-4c43-a3fb-1172cad3110c/df87cd87-dd32-4331-bb94-061b4d0ea986, contenthub:content-type/3rd-party-research, 4187ae8c-cd0e-40c1-9c57-b7f4b964faed:71350937-e20c-4c43-a3fb-1172cad3110c/78e9b831-2662-4008-91f2-6c38717ea219\&#x22; }&#x22;,&#x22;leadForm.gRecaptchaSiteKey&#x22;:&#x22;6LfYzV4dAAAAADm37Aieh5Mw-ssAE0Q8EdtKA7oZ&#x22;,&#x22;taxonomy.locale.mapping&#x22;:&#x22;{\&#x22;default\&#x22;:[\&#x22;default\&#x22;],\&#x22;group1\&#x22;:[\&#x22;default\&#x22;,\&#x22;ar_sa\&#x22;,\&#x22;bg_bg\&#x22;,\&#x22;cs_cz\&#x22;,\&#x22;da_dk\&#x22;,\&#x22;de_at\&#x22;,\&#x22;de_ch\&#x22;],\&#x22;group2\&#x22;:[\&#x22;default\&#x22;,\&#x22;de_de\&#x22;,\&#x22;el_gr\&#x22;,\&#x22;en_au\&#x22;,\&#x22;en_ca\&#x22;,\&#x22;en_gb\&#x22;,\&#x22;en_hk\&#x22;],\&#x22;group3\&#x22;:[\&#x22;default\&#x22;,\&#x22;en_in\&#x22;,\&#x22;en_sa\&#x22;,\&#x22;en_sg\&#x22;,\&#x22;en_us\&#x22;,\&#x22;en_za\&#x22;,\&#x22;es_co\&#x22;],\&#x22;group4\&#x22;:[\&#x22;default\&#x22;,\&#x22;es_es\&#x22;,\&#x22;et_ee\&#x22;,\&#x22;fi_fi\&#x22;,\&#x22;fr_be\&#x22;,\&#x22;fr_ca\&#x22;,\&#x22;fr_ch\&#x22;],\&#x22;group5\&#x22;:[\&#x22;default\&#x22;,\&#x22;fr_fr\&#x22;,\&#x22;he_il\&#x22;,\&#x22;hr_hr\&#x22;,\&#x22;hu_hu\&#x22;,\&#x22;it_it\&#x22;,\&#x22;ja_jp\&#x22;],\&#x22;group6\&#x22;:[\&#x22;default\&#x22;,\&#x22;ko_kr\&#x22;,\&#x22;lt_lt\&#x22;,\&#x22;lv_lv\&#x22;,\&#x22;nl_be\&#x22;,\&#x22;nl_nl\&#x22;,\&#x22;no_no\&#x22;],\&#x22;group7\&#x22;:[\&#x22;default\&#x22;,\&#x22;pl_pl\&#x22;,\&#x22;pt_br\&#x22;,\&#x22;pt_pt\&#x22;,\&#x22;ro_ro\&#x22;,\&#x22;ru_ru\&#x22;,\&#x22;sk_sk\&#x22;],\&#x22;group8\&#x22;:[\&#x22;default\&#x22;,\&#x22;sl_si\&#x22;,\&#x22;sr_rs\&#x22;,\&#x22;sv_se\&#x22;,\&#x22;tr_tr\&#x22;,\&#x22;uk_ua\&#x22;,\&#x22;zh_cn\&#x22;],\&#x22;group9\&#x22;:[\&#x22;default\&#x22;,\&#x22;zh_tw\&#x22;]}&#x22;,&#x22;edge.worker.dgl.assets.cn.endpoint&#x22;:&#x22;https://www.sap.cn/api/edge/assets&#x22;,&#x22;domain&#x22;:&#x22;www.sap.com&#x22;,&#x22;sitemap.page.templates&#x22;:&#x22;hub-l1,hub-l2,article&#x22;,&#x22;query.index.path&#x22;:&#x22;/query-index.json&#x22;,&#x22;edge.worker.domain.cn&#x22;:&#x22;https://www.sap.cn&#x22;,&#x22;elastic.search.resource.center.path&#x22;:&#x22;/api/gateway/elasticsearch/_search&#x22;,&#x22;edge.worker.productprice.path&#x22;:&#x22;/api/edge/pdp/product-price&#x22;,&#x22;fragement.api.path&#x22;:&#x22;/api/content/contentFragments&#x22;,&#x22;dcpForms.gRecaptchaSiteKey&#x22;:&#x22;6LfYzV4dAAAAADm37Aieh5Mw-ssAE0Q8EdtKA7oZ&#x22;,&#x22;dcpCtaButton.domain&#x22;:&#x22;https://webcomponents-cta-app.p1.services.store.net.sap&#x22;,&#x22;index.endpoint&#x22;:&#x22;https://main--builder-prospect-aem-prod--sapudex.aem.live/edge&#x22;,&#x22;external.hostnames&#x22;:&#x22;me.sap.com,partneredge.sap.com&#x22;,&#x22;edge.worker.eccn.path&#x22;:&#x22;/api/edge/eccn&#x22;,&#x22;feed.description&#x22;:&#x22;Company \u0026#38; Customer Stories \u0026#124; Press Room.&#x22;,&#x22;ch.tag.index.path&#x22;:&#x22;/tags-customer-model.json&#x22;,&#x22;edge.worker.domain&#x22;:&#x22;https://www.sap.com&#x22;,&#x22;pdp.markets.popup&#x22;:&#x22;{\&#x22;locales\&#x22;: true, \&#x22;cookieCountry\&#x22;: true, \&#x22;companyCountry\&#x22;: true}&#x22;,&#x22;trustCenter.solution.details.path&#x22;:&#x22;/bin/sapdxc/proxy.ctcsl.{solutionId}.json&#x22;,&#x22;feed.maxPosts&#x22;:&#x22;30&#x22;,&#x22;author.index.path&#x22;:&#x22;/profiles-index.json&#x22;,&#x22;publish.prod&#x22;:&#x22;https://www.sap.com&#x22;,&#x22;topics.update.frequency&#x22;:&#x22;weekly&#x22;,&#x22;i18n.placeholders&#x22;:&#x22;{\&#x22;edsSpreadsheetPath\&#x22;:\&#x22;/i18n-placeholders.json\&#x22;,\&#x22;edsSpreadsheetLimit\&#x22;:1000,\&#x22;edsDefaultSpreadsheet\&#x22;:\&#x22;default\&#x22;,\&#x22;group_by_property\&#x22;:\&#x22;translate\&#x22;,\&#x22;resourceSpreadsheetPath\&#x22;:\&#x22;/content/sapcom/edge/i18n-placeholders\&#x22;,\&#x22;columns\&#x22;:[\&#x22;Key\&#x22;,\&#x22;description\&#x22;,\&#x22;translate|{}\&#x22;],\&#x22;sheets\&#x22;:[\&#x22;{\\\&#x22;default\\\&#x22;:{\\\&#x22;translate\\\&#x22;:[\\\&#x22;default:text\\\&#x22;]}}\&#x22;,\&#x22;{\\\&#x22;group1\\\&#x22;:{\\\&#x22;translate\\\&#x22;:[\\\&#x22;default:text\\\&#x22;,\\\&#x22;ar_SA\\\&#x22;,\\\&#x22;bg_BG\\\&#x22;,\\\&#x22;cs_CZ\\\&#x22;,\\\&#x22;da_DK\\\&#x22;]}}\&#x22;,\&#x22;{\\\&#x22;group2\\\&#x22;:{\\\&#x22;translate\\\&#x22;:[\\\&#x22;default:text\\\&#x22;,\\\&#x22;de_DE\\\&#x22;,\\\&#x22;el_GR\\\&#x22;,\\\&#x22;es_CO\\\&#x22;,\\\&#x22;et_EE\\\&#x22;]}}\&#x22;,\&#x22;{\\\&#x22;group3\\\&#x22;:{\\\&#x22;translate\\\&#x22;:[\\\&#x22;default:text\\\&#x22;,\\\&#x22;fi_FI\\\&#x22;,\\\&#x22;fr_FR\\\&#x22;,\\\&#x22;he_IL\\\&#x22;,\\\&#x22;hr_HR\\\&#x22;]}}\&#x22;,\&#x22;{\\\&#x22;group4\\\&#x22;:{\\\&#x22;translate\\\&#x22;:[\\\&#x22;default:text\\\&#x22;,\\\&#x22;hu_HU\\\&#x22;,\\\&#x22;it_IT\\\&#x22;,\\\&#x22;ja_JP\\\&#x22;,\\\&#x22;ko_KR\\\&#x22;]}}\&#x22;,\&#x22;{\\\&#x22;group5\\\&#x22;:{\\\&#x22;translate\\\&#x22;:[\\\&#x22;default:text\\\&#x22;,\\\&#x22;lt_LT\\\&#x22;,\\\&#x22;lv_LV\\\&#x22;,\\\&#x22;nl_NL\\\&#x22;,\\\&#x22;no_NO\\\&#x22;]}}\&#x22;,\&#x22;{\\\&#x22;group6\\\&#x22;:{\\\&#x22;translate\\\&#x22;:[\\\&#x22;default:text\\\&#x22;,\\\&#x22;pl_PL\\\&#x22;,\\\&#x22;pt_BR\\\&#x22;,\\\&#x22;pt_PT\\\&#x22;,\\\&#x22;ro_RO\\\&#x22;]}}\&#x22;,\&#x22;{\\\&#x22;group7\\\&#x22;:{\\\&#x22;translate\\\&#x22;:[\\\&#x22;default:text\\\&#x22;,\\\&#x22;ru_RU\\\&#x22;,\\\&#x22;sk_SK\\\&#x22;,\\\&#x22;sl_SL\\\&#x22;,\\\&#x22;sr_RS\\\&#x22;]}}\&#x22;,\&#x22;{\\\&#x22;group8\\\&#x22;:{\\\&#x22;translate\\\&#x22;:[\\\&#x22;default:text\\\&#x22;,\\\&#x22;sv_SE\\\&#x22;,\\\&#x22;tr_TR\\\&#x22;,\\\&#x22;uk_UA\\\&#x22;,\\\&#x22;zh_CN\\\&#x22;,\\\&#x22;zh_TW\\\&#x22;]}}\&#x22;]}&#x22;,&#x22;news.publisher&#x22;:&#x22;SAP News&#x22;,&#x22;registration.formPath&#x22;:&#x22;/registrations/account-universal&#x22;,&#x22;trustCenter.products.path&#x22;:&#x22;/bin/sapdxc/proxy.ctcsl.products.json&#x22;,&#x22;pdfEmbedKey&#x22;:&#x22;139a009aa6534f30a04bdb88cea2cf16&#x22;,&#x22;analytics.account.email&#x22;:&#x22;true&#x22;,&#x22;edge.worker.currency.path&#x22;:&#x22;/api/edge/pdp/currency&#x22;,&#x22;edge.worker.cta.path&#x22;:&#x22;/api/edge/pdp/cta&#x22;,&#x22;edge.api.dgl.assets.endpoint&#x22;:&#x22;/api/edge/assets&#x22;,&#x22;edge.worker.tnc.path&#x22;:&#x22;/api/edge/pdp/tnc&#x22;,&#x22;publish.dev&#x22;:&#x22;https://www.sap.com&#x22;,&#x22;formEngine.platform.host.cn&#x22;:&#x22;https://forms.services.sap.cn&#x22;,&#x22;contacts&#x22;:&#x22;/content/sapcom/languages/en_us/news/press-room/contacts&#x22;}">
+    <meta name="edge-domain" content="https://www.sap.com">
+    <meta name="content-path" content="/content/sapcom/countries/en-us">
+    <meta name="taxonomy_config" content="{&#x22;modelId&#x22;:&#x22;8365aa80-1820-4607-93d7-beeadc70d6e1&#x22;,&#x22;subsetId&#x22;:&#x22;16297491-8fa7-4392-9086-0d2c0d6dedb8&#x22;,&#x22;deprecatedConceptId&#x22;:&#x22;4c73468c-cd42-4026-a6f4-7fa673a11d4a&#x22;}">
+    <meta name="personalization-css" content=".promo-container.collection-container .promo-wrapper:nth-child(1)">
+    <meta name="sm_tech_ids" content="4187ae8c-cd0e-40c1-9c57-b7f4b964faed:135437842646801943993678/en-US, 4187ae8c-cd0e-40c1-9c57-b7f4b964faed:211459137732392306421747/207430454709915121807807">
+    <meta name="masthead_url" content="/design-system/ds-masthead">
+    <meta name="footer_url" content="/edge/fragments/footer/exceptions/item-1771599646610">
+    <meta name="extension" content="design-system-portal">
+    <meta name="secondary_navigation_url" content="stopMarker">
+    <meta name="locale-switcher-disabled" content="true">
+    <meta name="template" content="design-system-portal_web-component">
+    <meta name="page-template-title" content="Design System Page">
+    <meta name="published-time" content="2026-10-29T03:20:14.490Z">
+    <meta name="page-template" content="designSystemPage">
+    <meta name="modified-time" content="2026-10-29T03:20:03.672Z">
+    <meta name="uielementstechnology" content="DDS">
+    <meta name="elementtype" content="Foundations">
+    <meta name="content-page-ref" content="eg-Drn3ajeG-yr-YC9KIZDol6HjDPtjhPt05hDP4zpM86SIMux2cMYVieeINPE9h23O50UXi_dTb6SbfWbu6Vn35TmcxNzKZP5uqnUwFEgp6jV_4a0ejXTUExeEc7OVzvLGLdSDqmQgYd9vc3vxTRA">
+    <style>body:not(.appear) { display: none; }</style>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="icon" href="/favicon.ico">
+    <link rel="preload" href="/edge/scripts/assets/css_variables.css?v=2.17.0" as="style" crossorigin="">
+    <link rel="stylesheet" href="/edge/scripts/assets/styles-2.17.0.css">
+    <script src="/edge/scripts/main-2.17.0.js" type="module"></script>
+  </head>
+  <body>
+    <header></header>
+    <main>
+      <div>
+        <div class="design-system-hero">
+          <div>
+            <div>
+              <h1 id="logo">Logo</h1>
+            </div>
+          </div>
+          <div>
+            <div></div>
+          </div>
+          <div>
+            <div>
+              <picture>
+                <source type="image/webp" srcset="./media_1c81651b1681e376178db768e85d5e04ab7177e8d.svg?width=2000&#x26;format=webply&#x26;optimize=medium" media="(min-width: 600px)">
+                <source type="image/webp" srcset="./media_1c81651b1681e376178db768e85d5e04ab7177e8d.svg?width=750&#x26;format=webply&#x26;optimize=medium">
+                <source type="image/svg+xml" srcset="./media_1c81651b1681e376178db768e85d5e04ab7177e8d.svg?width=2000&#x26;format=svg&#x26;optimize=medium" media="(min-width: 600px)">
+                <img loading="lazy" alt="" src="./media_1c81651b1681e376178db768e85d5e04ab7177e8d.svg?width=750&#x26;format=svg&#x26;optimize=medium" width="1300" height="221">
+              </picture>
+            </div>
+          </div>
+          <div>
+            <div>
+              <h6 id="foundationsidentitylogo">Foundations/Identity/Logo</h6>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h2 id="primary">Primary</h2>
+        <p>The SAP logo is our single most recognizable brand asset. Its color, anvil shape, and letterforms are fundamental to our visual system and referenced throughout other design elements.</p>
+        <p>The gradient blue SAP logo is our primary logo. Use the gradient blue SAP logo whenever possible.</p>
+        <p>
+          <picture>
+            <source type="image/webp" srcset="./media_1ee0ca2bfe9b731137ecb18e0fd30e8c1a0ec6a2e.png?width=2000&#x26;format=webply&#x26;optimize=medium" media="(min-width: 600px)">
+            <source type="image/webp" srcset="./media_1ee0ca2bfe9b731137ecb18e0fd30e8c1a0ec6a2e.png?width=750&#x26;format=webply&#x26;optimize=medium">
+            <source type="image/png" srcset="./media_1ee0ca2bfe9b731137ecb18e0fd30e8c1a0ec6a2e.png?width=2000&#x26;format=png&#x26;optimize=medium" media="(min-width: 600px)">
+            <img loading="lazy" alt="" src="./media_1ee0ca2bfe9b731137ecb18e0fd30e8c1a0ec6a2e.png?width=750&#x26;format=png&#x26;optimize=medium" width="535" height="193">
+          </picture>
+        </p>
+        <div class="columns downloads">
+          <div>
+            <div>
+              <p><a href="https://sap.sharepoint.com/:u:/r/teams/BrandDigitalDesignSystem/Shared%20Documents/General/Guidelines/Downloads/SAP-logo.zip?csf=1&#x26;web=1&#x26;e=f0FMBU">SAP-logo.zip</a></p>
+              <p>2 KB zip file</p>
+            </div>
+            <div></div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h2 id="chinese-version">Chinese Version</h2>
+        <p>This version demonstrates SAP's commitment to Greater China by communicating in the local language and enhancing SAP’s “in China for China approach”. The Simplified Chinese SAP logo is used in the Masthead of the SAP China web site.</p>
+        <p>
+          <picture>
+            <source type="image/webp" srcset="./media_165b790ca1f9d9849ddcc452639737a73df30abc0.png?width=2000&#x26;format=webply&#x26;optimize=medium" media="(min-width: 600px)">
+            <source type="image/webp" srcset="./media_165b790ca1f9d9849ddcc452639737a73df30abc0.png?width=750&#x26;format=webply&#x26;optimize=medium">
+            <source type="image/png" srcset="./media_165b790ca1f9d9849ddcc452639737a73df30abc0.png?width=2000&#x26;format=png&#x26;optimize=medium" media="(min-width: 600px)">
+            <img loading="lazy" alt="" src="./media_165b790ca1f9d9849ddcc452639737a73df30abc0.png?width=750&#x26;format=png&#x26;optimize=medium" width="535" height="193">
+          </picture>
+        </p>
+        <p>
+          <img src="about:error" alt="" loading="lazy">
+        </p>
+      </div>
+      <div>
+        <h2 id="sub-brands">Sub-brands</h2>
+        <p>Sub-brands are our big bets — distinctly branded portfolios of offerings that we invest in to attract and retain buyers.</p>
+        <p>Sub-brands don’t have unique identities. They differentiate by name, content, and messaging.</p>
+        <p>While there are other sub-brand logos, only SAP Concur and SAP Signavio logos will be used within the Masthead of their respective web sites. All other sub-brand content is now housed within SAP.com and therefore the SAP logo is used in the Masthead.</p>
+        <div class="columns">
+          <div>
+            <div>
+              <p>
+                <picture>
+                  <source type="image/webp" srcset="./media_120d8ad34b369cad5c3fcfe4d9597d14f46273873.png?width=2000&#x26;format=webply&#x26;optimize=medium" media="(min-width: 600px)">
+                  <source type="image/webp" srcset="./media_120d8ad34b369cad5c3fcfe4d9597d14f46273873.png?width=750&#x26;format=webply&#x26;optimize=medium">
+                  <source type="image/png" srcset="./media_120d8ad34b369cad5c3fcfe4d9597d14f46273873.png?width=2000&#x26;format=png&#x26;optimize=medium" media="(min-width: 600px)">
+                  <img loading="lazy" alt="SAP-Concur.png" src="./media_120d8ad34b369cad5c3fcfe4d9597d14f46273873.png?width=750&#x26;format=png&#x26;optimize=medium" width="535" height="193">
+                </picture>
+              </p>
+              <p>SAP-Concur</p>
+            </div>
+            <div>
+              <p>
+                <picture>
+                  <source type="image/webp" srcset="./media_1208bd34674633d5fdd47680cb3a893f3ec8aa01d.png?width=2000&#x26;format=webply&#x26;optimize=medium" media="(min-width: 600px)">
+                  <source type="image/webp" srcset="./media_1208bd34674633d5fdd47680cb3a893f3ec8aa01d.png?width=750&#x26;format=webply&#x26;optimize=medium">
+                  <source type="image/png" srcset="./media_1208bd34674633d5fdd47680cb3a893f3ec8aa01d.png?width=2000&#x26;format=png&#x26;optimize=medium" media="(min-width: 600px)">
+                  <img loading="lazy" alt="SAP-Signavio.png" src="./media_1208bd34674633d5fdd47680cb3a893f3ec8aa01d.png?width=750&#x26;format=png&#x26;optimize=medium" width="535" height="193">
+                </picture>
+              </p>
+              <p>SAP-Signavio</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h2 id="events">Events</h2>
+        <p>Event-specific logos can be used to visually reinforce branding and recognition for individual initiatives. These logos may appear in the <strong>Masthead</strong> of event pages (such as Label Zone), within <strong>Resource Center</strong> cards, or in an <strong>Event ribbon</strong> to help highlight the context and importance of the event.</p>
+        <div class="columns">
+          <div>
+            <div>
+              <picture>
+                <source type="image/webp" srcset="./media_1c59ac53d00a8d3f9b9f96088b26832d8ebbd7271.png?width=2000&#x26;format=webply&#x26;optimize=medium" media="(min-width: 600px)">
+                <source type="image/webp" srcset="./media_1c59ac53d00a8d3f9b9f96088b26832d8ebbd7271.png?width=750&#x26;format=webply&#x26;optimize=medium">
+                <source type="image/png" srcset="./media_1c59ac53d00a8d3f9b9f96088b26832d8ebbd7271.png?width=2000&#x26;format=png&#x26;optimize=medium" media="(min-width: 600px)">
+                <img loading="lazy" alt="" src="./media_1c59ac53d00a8d3f9b9f96088b26832d8ebbd7271.png?width=750&#x26;format=png&#x26;optimize=medium" width="1938" height="759">
+              </picture>
+            </div>
+            <div></div>
+          </div>
+        </div>
+        <p>Always ensure that event logos are used in accordance with brand guidelines and maintain clear visual hierarchy alongside the main brand identity.</p>
+        <div class="columns downloads">
+          <div>
+            <div>
+              <p><a href="https://sap.sharepoint.com/:u:/t/BrandDigitalDesignSystem/EaYmXuhG3k5GiXfrA_JDLFgBWnpkjvBXzSM6RVA2TUMRnw?e=sycq1t">Event-logos.zip</a></p>
+              <p>30 KB zip file</p>
+            </div>
+            <div></div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h2 id="favicon">Favicon</h2>
+        <p>The favicon (short for favorite icon) is used for browser tabs, bookmarks, and web shortcuts. We use the solid Blue-7 anvil icon instead of the full logo because it scales better at small sizes, improves accessibility, and strengthens recognition in search and AI-powered search.</p>
+        <p>In addition, audiences experience SAP in AI overviews and LLM answers. The favicon is often the only signal telling them where the content came from. The solid blue-7 anvil holds up at every size it's rendered at — legible, accessible, high-contrast — so the source is instantly recognizable. Standardizing our favicon across our properties means every AI citation and search result reinforces the brand.</p>
+        <p>
+          <picture>
+            <source type="image/webp" srcset="./media_1f2d8f0c3b102879a510ee708a94cf52e9fd62842.png?width=2000&#x26;format=webply&#x26;optimize=medium" media="(min-width: 600px)">
+            <source type="image/webp" srcset="./media_1f2d8f0c3b102879a510ee708a94cf52e9fd62842.png?width=750&#x26;format=webply&#x26;optimize=medium">
+            <source type="image/png" srcset="./media_1f2d8f0c3b102879a510ee708a94cf52e9fd62842.png?width=2000&#x26;format=png&#x26;optimize=medium" media="(min-width: 600px)">
+            <img loading="lazy" alt="" src="./media_1f2d8f0c3b102879a510ee708a94cf52e9fd62842.png?width=750&#x26;format=png&#x26;optimize=medium" width="923" height="193">
+          </picture>
+        </p>
+        <div class="info">
+          <div>
+            <div>information</div>
+          </div>
+          <div>
+            <div>Download package was recently updated on October 28, 2026.</div>
+          </div>
+        </div>
+        <div class="columns downloads">
+          <div>
+            <div>
+              <p><a href="https://sap.sharepoint.com/:u:/r/teams/BrandDigitalDesignSystem/Shared%20Documents/General/Guidelines/Downloads/SAP-Favicon-20261028.zip?d=wf2767f38994a474a9985598c1f2238ca&#x26;csf=1&#x26;web=1&#x26;e=7rKMo0">SAP-Favicon-20261028.zip</a></p>
+              <p>27 KB zip file</p>
+            </div>
+            <div></div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h2 id="additional-information">Additional Information</h2>
+        <p>Additional information on logo clear space, sizing, background options, Do's and Don'ts as well as other download options, can be found on the SAP Brand site.</p>
+        <p><em><a href="https://brand.sap.com/logo">Visit brand.sap.com/logo#</a></em></p>
+        <p>Last updated: Oct 28, 2026</p>
+        <div class="columns metadata-hidden-image">
+          <div>
+            <div>
+              <picture>
+                <source type="image/webp" srcset="./media_1ee0ca2bfe9b731137ecb18e0fd30e8c1a0ec6a2e.png?width=2000&#x26;format=webply&#x26;optimize=medium" media="(min-width: 600px)">
+                <source type="image/webp" srcset="./media_1ee0ca2bfe9b731137ecb18e0fd30e8c1a0ec6a2e.png?width=750&#x26;format=webply&#x26;optimize=medium">
+                <source type="image/png" srcset="./media_1ee0ca2bfe9b731137ecb18e0fd30e8c1a0ec6a2e.png?width=2000&#x26;format=png&#x26;optimize=medium" media="(min-width: 600px)">
+                <img loading="lazy" alt="" src="./media_1ee0ca2bfe9b731137ecb18e0fd30e8c1a0ec6a2e.png?width=750&#x26;format=png&#x26;optimize=medium" width="535" height="193">
+              </picture>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer></footer>
+  <script type="text/javascript" nonce="b3cff1fbc15efb4dd1b7fb87249462bf" src="/HUF-JI/wwblwJ/YbG5/CfPfY7/qt/9EuJXmmLSDSJVhEkN5/OG9TAxl8eA/LgFtUh9/rbgk"></script></body>
+</html>
